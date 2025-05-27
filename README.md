@@ -16,7 +16,7 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 
 | **Categoría**         | **Detalles**                                                                                                                                           |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programación**      | [![Programación](https://skillicons.dev/icons?i=java,js,cs,html,kotlin&perline=5)](https://skillicons.dev)                                               |
+| **Programación**      | [![Programación](https://skillicons.dev/icons?i=java,js,cs,html,css&perline=5)](https://skillicons.dev)                                               |
 | **Frameworks y Librerías** | [![Frameworks y Librerías](https://skillicons.dev/icons?i=spring,dotnet,bootstrap,tailwind&perline=5)](https://skillicons.dev)              |
 | **IDE's**             | [![IDE's](https://skillicons.dev/icons?i=visualstudio,androidstudio,vs&perline=5)](https://skillicons.dev)                                             |
 | **Bases de datos**    | [![Bases de datos](https://skillicons.dev/icons?i=mysql&perline=5)](https://skillicons.dev)                                                             |
@@ -27,11 +27,7 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 - Me apasiona la creación de proyectos web elegantes y funcionales.
 - Disfruto trabajando en equipo.
 - Siempre busco aprender nuevas tecnologías y mantenerme actualizado en el mundo del desarrollo web.
-
-## Estadisticas
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavidFlorezQuin&theme=dark&hide_border=true&border_radius=4.6&mode=weekly" alt="GitHub Streak" /></a>
-
 ## Contacto
 
 [![Correo Electrónico](https://skillicons.dev/icons?i=gmail)](mailto:chochosick8@gmail.com)
