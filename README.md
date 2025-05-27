@@ -16,7 +16,7 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 
 | **Categoría**         | **Detalles**                                                                                                                                           |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programación**      | [![Programación](https://skillicons.dev/icons?i=java,js,cs,html,css&perline=5)](https://skillicons.dev)                                               |
+| **Programación**      | [![Programación](https://skillicons.dev/icons?i=java,js,cs,html,php&perline=5)](https://skillicons.dev)                                               |
 | **Frameworks y Librerías** | [![Frameworks y Librerías](https://skillicons.dev/icons?i=spring,dotnet,bootstrap,tailwind&perline=5)](https://skillicons.dev)              |
 | **IDE's**             | [![IDE's](https://skillicons.dev/icons?i=visualstudio,androidstudio,vs&perline=5)](https://skillicons.dev)                                             |
 | **Bases de datos**    | [![Bases de datos](https://skillicons.dev/icons?i=mysql&perline=5)](https://skillicons.dev)                                                             |
