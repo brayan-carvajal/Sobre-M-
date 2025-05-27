@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hola, soy David</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Brayan</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div style="text-align:center;">
 
@@ -10,14 +10,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Neiva%2C%20Huila-yellow?logo=googlemaps&logoColor=white&label=Colombia&labelColor=blue&color=yellow)
 
-Soy un jóven apasionado por la programación y la arquitectura de software. Con más de 9 meses de experiencia en la industria, he adquirido habilidades sólidas en diversas tecnologías y frameworks, incluyendo PHP, HTML, CSS, SQL, Tailwind CSS, y Laravel. Mi enfoque es crear proyectos bien estructurados con buenas prácticas.
-  
-## Experiencia
-
-- **Programador Full Stack** en Opa Noticias (2023/02/02 - 2023/11/15)
-  - Trabajé en proyectos web utilizando tecnologías como Laravel, PHP, HTML, CSS y JavaScript.
-  - Lideré equipos de desarrollo, garantizando la calidad del código y la entrega oportuna de proyectos.
-  - Mantuve un alto estándar de diseño y usabilidad en las aplicaciones.
+Soy un jóven apasionado por la programación y la arquitectura de software. Con más de 9 meses de experiencia en la industria, he adquirido habilidades sólidas en diversas tecnologías y frameworks, incluyendo JS, PHP, HTML, CSS, SQL, Spring, y Java. Mi enfoque es crear proyectos bien estructurados con buenas prácticas.
 
 ## Habilidades Técnicas
 
@@ -32,7 +25,7 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 ## Intereses
 
 - Me apasiona la creación de proyectos web elegantes y funcionales.
-- Disfruto trabajando en equipo y liderando proyectos.
+- Disfruto trabajando en equipo.
 - Siempre busco aprender nuevas tecnologías y mantenerme actualizado en el mundo del desarrollo web.
 
 ## Estadisticas
@@ -41,11 +34,7 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 
 ## Contacto
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DavidFlorezQuin)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-florez-quintero-20189220a)
-[![Correo Electrónico](https://skillicons.dev/icons?i=gmail)](mailto:davidmauricioflorez@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/davidflorez5843/)
-
-
+[![Correo Electrónico](https://skillicons.dev/icons?i=gmail)](mailto:chochosick8@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/estiven.xyz/)
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o estás interesado en colaborar en proyectos, no dudes en contactarme.
